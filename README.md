@@ -20,8 +20,8 @@ enrolled.
 - DNS: Porkbun
 - Video serving Platform: Vimeo.
 
-Users Profile:
-● Students -</br>
+Users Profile:</br>
+● Students </br>
 - have credentials to access course material, questionnaires</br>
 - will get certificates after completing a course. Students can be either
 school students or college students, and we expect them to be
