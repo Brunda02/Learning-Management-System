@@ -21,21 +21,21 @@ enrolled.
 - Video serving Platform: Vimeo.
 
 Users Profile:
-● Students -
-○ have credentials to access course material, questionnaires
-○ will get certificates after completing a course. Students can be either
+● Students -</br>
+- have credentials to access course material, questionnaires</br>
+- will get certificates after completing a course. Students can be either
 school students or college students, and we expect them to be
 comfortable with using platforms like this one. Focus will be on making
-a neat and understandable UI so that the platform is easy to use.
-○ Be able to see their performance in the course
+a neat and understandable UI so that the platform is easy to use.</br>
+- Be able to see their performance in the course</br>
 ● Teachers
-○ will add course material
-○ Can update course material
-○ Attach locally or externally hosted media
-○ Refactor Course Modules
-○ Initiate discussion posts
-○ make questionnaires
+ -will add course material</br>
+ -Can update course material</br>
+ -Attach locally or externally hosted media</br>
+ -Refactor Course Modules</br>
+ -Initiate discussion posts</br>
+ -make questionnaires</br>
 ● Admin
-○ Provide staff permissions
-○ Configure portal
-○ Create and customise certificate
+ - Provide staff permissions</br>
+ - Configure portal,/br>
+ - Create and customise certificate</br>
