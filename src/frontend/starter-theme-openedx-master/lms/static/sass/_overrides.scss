@@ -1,0 +1,88 @@
+.header-global h1.logo img {
+	max-height: 40px;
+}
+
+// .home header {
+	
+// 	background-color: rgb(130, 146, 221);
+//   }
+.home > header {
+	background: url('../starter-theme/images/kids.jpeg');
+	background-size: cover;
+	background-position: 25%;
+
+	.outer-wrapper {
+		padding-top: 150px;
+	    padding-bottom: 150px;
+	}
+	.title {
+		background: transparent;
+		box-shadow: none;
+		margin-left: 0;
+
+		> .heading-group h1 {
+			color: rgb(91, 231, 231);
+			text-shadow: none;
+		}
+		> .heading-group p {
+			color: rgb(83, 229, 240);
+		}
+	}
+}
+body {
+    background-color: rgb(27, 25, 25);
+}
+
+.window-wrap {
+    background: #060505;
+}
+
+.course-info .details p {
+	margin-bottom: 10px;
+	color: white;
+  }
+
+  
+  .course-info .course-sidebar .important-dates li {
+	border-bottom: 1px dotted #c8c8c8;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	color: white;
+  }
+
+  .dashboard-search-bar label {
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #313131;
+	font-size: 18px;
+	font-style: normal;
+	color: white;
+  }
+
+  .dashboard .main-container .my-courses .course .details .wrapper-course-details .course-info [class*="info-"] {
+	font: -apple-system-short-subheadline !important;
+	color: #fff;
+	display: inline-block;
+	font-size: 16px;
+	font-style: italic;
+  }
+
+  .dashboard .main-container .my-courses .course .details .wrapper-course-details .course-info .info-date-block-container .info-date-block {
+	font: -apple-system-short-subheadline !important;
+	color: #fff;
+	font-size: 16px;
+  }
+
+  
+  .find-courses .wrapper-search-context .search-status-label {
+	float: left;
+	display: block;
+	margin-right: 2.35765%;
+	width: 74.41059%;
+	min-height: 55px;
+	color: white;
+  }
+
+  .find-courses, .university-profile {
+	background: #000;
+	padding-bottom: 60px;
+  }

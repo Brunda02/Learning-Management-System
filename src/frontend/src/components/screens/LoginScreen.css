@@ -1,0 +1,34 @@
+.login-screen {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .login-screen__form {
+    width: 380px;
+    padding: 1.5rem;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+    background: #fff;
+  }
+  
+  .login-screen__title {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .login-screen__forgotpassword {
+    font-size: 0.7rem;
+  }
+  
+  .login-screen__subtext {
+    font-size: 0.7rem;
+    display: block;
+    margin: 0.5rem 0;
+  }
+
+  /* div{
+    background-image: url(https://media.istockphoto.com/photos/modern-keyboard-wih-blue-log-in-button-picture-id638149354?k=20&m=638149354&s=612x612&w=0&h=bkTvrKEv4ENMymYn-3FLMDBR9BQc3ZqVEO_rrDAm4GQ=);
+  } */
+  
